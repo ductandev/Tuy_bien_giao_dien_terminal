@@ -1,4 +1,15 @@
 # Tùy Biến giao diện terminal
+**Những links liên quan :**
+- **Theme:**
+- Dracula: https://draculatheme.com/gnome-terminal
+- One Dark: https://github.com/denysdovhan/one-gn...
+- Nord: https://github.com/arcticicestudio/no...
+- Powerlevel10k: https://github.com/romkatv/powerlevel10k
+- Nerd Fonts: https://github.com/ryanoasis/nerd-fon...
+- Dark-flat: https://github.com/QuentinWatt/dark-flat-iterm-colors
+- Gogh: https://github.com/Mayccoll/Gogh **hoặc** https://mayccoll.github.io/Gogh/
+
+
 
 # 1. Tải nerd-fonts cho ubuntu
 - **Tải về** https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/UbuntuMono.zip \
