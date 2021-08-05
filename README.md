@@ -60,7 +60,9 @@ $ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel1
 $ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 $ zsh
 ```
-Muốn tùy biến sang một loại khác sữ dụng lệnh 
+Muốn tùy biến custom sang một loại khác sữ dụng lệnh 
 ```
 $ p10k configure
 ```
+**Kết quả:** \
+![image](https://user-images.githubusercontent.com/42485856/128347008-63089d56-5623-4d56-b758-e5ee5c2b29e7.png)
