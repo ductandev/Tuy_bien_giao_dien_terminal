@@ -65,4 +65,5 @@ Muốn tùy biến custom sang một loại khác sữ dụng lệnh
 $ p10k configure
 ```
 **Kết quả:** \
-![image](https://user-images.githubusercontent.com/42485856/128347008-63089d56-5623-4d56-b758-e5ee5c2b29e7.png)
+![image](https://user-images.githubusercontent.com/42485856/128347392-8cde5cf8-fea0-491d-9ca1-791fe33ac8ec.png)
+
