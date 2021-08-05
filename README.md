@@ -27,6 +27,9 @@ $ 1
 $ yes
 $ 2
 ```
+**Tùy chỉnh màu** \
+![image](https://user-images.githubusercontent.com/42485856/128316103-4d335361-8ca7-4f48-a52a-854380869cb1.png)
+
 # 3. Cài đặt zsh
 ```
 $ sudo apt install zsh
