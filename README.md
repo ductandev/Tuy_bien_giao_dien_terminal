@@ -10,8 +10,6 @@
 - Gogh: https://github.com/Mayccoll/Gogh **hoặc** https://mayccoll.github.io/Gogh/
 - ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
 
-
-
 # 1. Tải nerd-fonts cho ubuntu
 - **Tải về** https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/UbuntuMono.zip \
 Sau đó nhấp đúp vào file đã tải và chọn 4 font như hình dưới rồi nhấn ![image](https://user-images.githubusercontent.com/42485856/128306160-53737dec-83e0-4387-94cc-ad471bcae349.png) 
@@ -43,6 +41,7 @@ $ 2
 ![image](https://user-images.githubusercontent.com/42485856/128316103-4d335361-8ca7-4f48-a52a-854380869cb1.png)
 
 # 3. Cài đặt zsh
+- ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
 ```
 $ sudo apt install zsh
 ```
