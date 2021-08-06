@@ -59,6 +59,7 @@ For unistall zsh from Ubuntu 20.04 LTS
 $ sudo apt-get --purge remove zsh
 $ sudo apt autoremove
 ```
+**Hướng dẫn** https://tecadmin.net/how-to-install-zsh-on-ubuntu-20-04/
 
 # 4. Cài Powerlevel10k
 ```
