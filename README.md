@@ -42,7 +42,8 @@ $ 2
 ![image](https://user-images.githubusercontent.com/42485856/128316103-4d335361-8ca7-4f48-a52a-854380869cb1.png)
 
 # 3. Cài đặt zsh
-- ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
+- **ohmyzsh:** https://github.com/ohmyzsh/ohmyzsh
+- **Hướng dẫn** https://tecadmin.net/how-to-install-zsh-on-ubuntu-20-04/
 ```
 $ sudo apt install zsh
 ```
@@ -67,7 +68,6 @@ For unistall zsh from Ubuntu 20.04 LTS
 $ sudo apt-get --purge remove zsh
 $ sudo apt autoremove
 ```
-**Hướng dẫn** https://tecadmin.net/how-to-install-zsh-on-ubuntu-20-04/
 
 # 4. Cài Powerlevel10k
 Powerlevel10k: https://github.com/romkatv/powerlevel10k
