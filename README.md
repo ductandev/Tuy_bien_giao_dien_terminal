@@ -51,6 +51,12 @@ Chuyển đổi qua zsh (bước này nếu muốn về terminal cũ ban đầu 
 $ chsh -s  /bin/zsh
 $ zsh
 ```
+có thể chuyển qua lại bash(terminal như cũ) và zsh( mới) bằng 2 lệnh sau
+```
+$ bash
+$ zsh
+```
+
 sau đó **"Log out"** và mở lại **Terminal** và chọn **2**
 ```
 $ 2
