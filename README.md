@@ -53,7 +53,7 @@ sau đó **"Log out"** và mở lại **Terminal** và chọn **2**
 ```
 $ 2
 ```
-**cách xóa zsh**
+**cách xóa zsh** \
 For unistall zsh from Ubuntu 20.04 LTS
 ```
 $ sudo apt-get --purge remove zsh
