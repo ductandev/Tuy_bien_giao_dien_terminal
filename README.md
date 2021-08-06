@@ -70,6 +70,7 @@ $ sudo apt autoremove
 **Hướng dẫn** https://tecadmin.net/how-to-install-zsh-on-ubuntu-20-04/
 
 # 4. Cài Powerlevel10k
+Powerlevel10k: https://github.com/romkatv/powerlevel10k
 ```
 $ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 $ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
