@@ -9,6 +9,7 @@
 - Dark-flat: https://github.com/QuentinWatt/dark-flat-iterm-colors
 - Gogh: https://github.com/Mayccoll/Gogh **hoặc** https://mayccoll.github.io/Gogh/
 - ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
+- **Video hướng dẫn** https://www.youtube.com/watch?v=8rAYABZChkQ
 
 # 1. Tải nerd-fonts cho ubuntu
 - **Tải về** https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/UbuntuMono.zip \
@@ -48,6 +49,7 @@ $ sudo apt install zsh
 Chuyển đổi qua zsh (bước này nếu muốn về terminal cũ ban đầu thì thực hiện bước này và đổi **zsh** thành **bash**)
 ```
 $ chsh -s  /bin/zsh
+$ zsh
 ```
 sau đó **"Log out"** và mở lại **Terminal** và chọn **2**
 ```
