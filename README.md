@@ -27,7 +27,7 @@ Sau đó --> chọn them **Dracula** và chọn --> **"Set as default"**
 
 # 2. Cài đặt theme Dracula
 ### Trang chủ Daracula https://draculatheme.com --> còn nhiều thứ hấp dẫn ở đây
-Link cài đặt : https://draculatheme.com/gnome-terminal
+- Link cài đặt : https://draculatheme.com/gnome-terminal
 ```
 $ sudo apt-get install dconf-cli
 $ git clone https://github.com/dracula/gnome-terminal
@@ -62,7 +62,7 @@ sau đó **"Log out"** và mở lại **Terminal** và chọn **2**
 ```
 $ 2
 ```
-**Cách xóa zsh --> For unistall zsh from Ubuntu 20.04 LTS **
+**Cách xóa zsh --> For unistall zsh from Ubuntu 20.04 LTS**
 ```
 $ sudo apt-get --purge remove zsh
 $ sudo apt autoremove
