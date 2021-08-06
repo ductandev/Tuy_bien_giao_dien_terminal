@@ -49,15 +49,14 @@ Chuyển đổi qua zsh (bước này nếu muốn về terminal cũ ban đầu 
 ```
 $ chsh -s  /bin/zsh
 ```
-xóa zsh
+sau đó **"Log out"** và mở lại **Terminal** và chọn **2**
+```
+$ 2
+```
+**cách xóa zsh**
 ```
 $ sudo apt-get --purge remove zsh
 $ sudo apt autoremove
-```
-
-sau đó **Log out** và mở lại **Terminal** và chọn **2**
-```
-$ 2
 ```
 
 # 4. Cài Powerlevel10k
