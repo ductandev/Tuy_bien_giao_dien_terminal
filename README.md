@@ -8,6 +8,7 @@
 - Nerd Fonts: https://github.com/ryanoasis/nerd-fon...
 - Dark-flat: https://github.com/QuentinWatt/dark-flat-iterm-colors
 - Gogh: https://github.com/Mayccoll/Gogh **hoặc** https://mayccoll.github.io/Gogh/
+- ohmyzsh: https://github.com/ohmyzsh/ohmyzsh
 
 
 
