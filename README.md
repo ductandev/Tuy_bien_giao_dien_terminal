@@ -88,3 +88,8 @@ $ nano ~/.p10k.zsh
 **Kết quả:** \
 ![image](https://user-images.githubusercontent.com/42485856/128347392-8cde5cf8-fea0-491d-9ca1-791fe33ac8ec.png)
 
+**Ngoài lề**
+```
+alt + d ----> xóa 1 lúc cả dòng lệnh nhập trên terminal
+windows : lệnh color + : đổi màu cmd
+```
