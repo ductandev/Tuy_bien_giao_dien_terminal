@@ -94,4 +94,5 @@ $ nano ~/.p10k.zsh
 ```
 alt + d ----> xóa 1 lúc cả dòng lệnh nhập trên terminal
 windows : lệnh color + : đổi màu cmd
+/usr/bin/python3 -m pip install --upgrade pip       :update pip
 ```
