@@ -96,3 +96,9 @@ alt + d ----> xóa 1 lúc cả dòng lệnh nhập trên terminal
 windows : lệnh color + : đổi màu cmd
 /usr/bin/python3 -m pip install --upgrade pip       :update pip
 ```
+
+
+# 6. Đồng bộ terminal trên visual studio code:
+
+- vào hình bánh răng --> chọn setting --> sau đó gõ "terminal.font" vào ô tìm kiếm ---> và nhập vào "UbuntuMono Nerd font Mono" vào ô trống để đồng bộ cho giống không bị lỗi font như terminal chính ---> rồi bấm 'Crt + S' để lưu lại. Kết quả:
+![image](https://user-images.githubusercontent.com/42485856/146211642-cf1d09dc-4e3c-4c3c-bac4-738bb0465529.png)
